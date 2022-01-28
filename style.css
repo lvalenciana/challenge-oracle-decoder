@@ -1,0 +1,96 @@
+section{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: none;
+}
+label{
+    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 32px;
+}
+.texto,.textarea{
+    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 28px;
+    border: 1px solid lightcyan;
+    border-radius: 4px;
+    width: 30%;
+    height: 27px;
+    background-color: lightcyan;
+}
+h1{
+    font-size: 70px;
+    text-align: center;
+    margin-top: 1em;
+    padding-bottom: -1em;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Titillium Web', sans-serif; 
+    background-position: center;
+    background-color: lightcyan;  
+}
+h2{
+    text-align: center;
+    margin-top: 1em;
+    padding-bottom: -1em;
+    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 32px;
+}
+/* textarea{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -8px;
+    width: 50%;
+    height: 29px;
+    text-align: center;
+    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 28px;    
+    color: black;
+    border-style: solid ;
+    border: 1px solid lightcyan;
+    background-color: lightcyan;
+
+} */
+#encriptar,#desencriptar,#copiar{
+    text-align: center;
+    border-style: solid;
+    border-radius: 3px;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
+}
+#encriptar:hover,#desencriptar:hover,#copiar:hover{
+    text-align: center;
+    border-style: solid;
+    border-radius: 3px;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Patrick Hand', cursive;    background-color: #099ab5; 
+    color: white;
+    font-size: 20px;
+
+
+}
+footer{
+    padding: auto;
+    padding-top: 4%;
+    padding-bottom: 1%;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+
+/* //Paleta de colores  */
+.color1 {color: #121b29;}
+.color2 {color: #103a51;}
+.color3 {color: #0c6482;}
+.color4 {color: #099ab5;}
+.color5 {color: #05dced;}
